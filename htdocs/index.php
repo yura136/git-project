@@ -3,3 +3,4 @@
 	
 	echo "I is branch new_f";
 	echo "branch master";
+	ehcp new
